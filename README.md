@@ -1,14 +1,18 @@
+怎么选择云服务器？ 请看这个--阿里云，华为云，腾讯云，京东云，恒创云，华纳云等主流云厂商的云服务器优惠活动入口大全（包含部分免费试用活动）
+
+注：长期依赖，很多小白或学生甚至是有些小白天开发者因为没有找到云服务器优惠活动入口，导致首次购买或续费时花费不应该花费的资金，因此为了少走弯路，整理下面的这些入口并将持续更新
+
 【阿里云】
 
 [新用户专属特惠](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=pjo6tbnk)
-
-[老用户续费优惠](https://www.aliyun.com/activity/chaopinyingxiao?userCode=pjo6tbnk)      找“老用户续费专区”，领折扣续费
 
 [高校学生专属优惠](https://university.aliyun.com/mobile?userCode=pjo6tbnk)    高校学生通用权益,大一/研一新生认证后还可以领券
 
 [开发者/小微初创者优惠](https://www.aliyun.com/daily-act/ecs/activity_selection?userCode=pjo6tbnk)  找到"开发者/初创者力荐"板块
 
 [免费试用1个月](https://free.aliyun.com/?userCode=pjo6tbnk)    高达121 款免费试用产品
+
+[老用户续费优惠](https://www.aliyun.com/activity/chaopinyingxiao?userCode=pjo6tbnk)      找“老用户续费专区”，领折扣续费
 
 【腾讯云】
 
@@ -18,9 +22,7 @@
 
 [腾讯云代金券](https://curl.qcloud.com/RyNQxL1C)     除服务器外，还有小程序代金券 (新购，续费，升级均可用)
 
-[AI服务器特惠](https://curl.qcloud.com/d9WxZIp3)
-
-[GPU服务器特惠](https://curl.qcloud.com/d9WxZIp3)   助力AI应用和研究(现金券，学生特惠，开发者优惠)
+[AI GPU服务器特惠](https://curl.qcloud.com/d9WxZIp3)   助力AI应用和研究(现金券，学生特惠，开发者优惠)
 
 [游戏服务器特惠](https://curl.qcloud.com/8d0QRW9g)  一秒开服，多人联网畅玩
 
